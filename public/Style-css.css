@@ -1,0 +1,250 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.header {
+  height: 300px;
+  background-color: rgb(255, 0, 166);
+}
+
+.navbar {
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  float: left;
+  font-size: small;
+  height: 30px;
+  width: 470px;
+  background-color:rgb(249, 26, 171);
+  margin-top: 20px;
+  margin-left: 600px;
+  border-radius: 10px 10px 10px 10px;
+  line-height: 30px;
+
+
+}
+
+.Home {
+  float: left;
+  margin-left: 10px;
+
+}
+
+.About {
+  float: left;
+  margin-left: 40px;
+}
+
+.Contact {
+  float: left;
+  margin-left: 40px;
+}
+
+.Flavour {
+  float: left;
+  margin-left: 40px;
+}
+
+.Order {
+  float: left;
+  margin-left: 40px;
+}
+
+.Heading1 {
+  font-size: 70px;
+  margin-top: 50px;
+  float: left;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: -850px;
+  color: white;
+
+}
+
+.Heading2 {
+  font-size: 70px;
+  margin-top: 110px;
+  float: left;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: -850px;
+  color: white;
+}
+
+.Des1 {
+  font-size: 20px;
+  margin-top: 100px;
+  float: left;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: -450px;
+  color: white;
+}
+
+.Explore {
+  font-size: 10px;
+  margin-top: 170px;
+  float: left;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: -400px;
+  color: rgb(255, 0, 166);
+  border-radius: 20px 20px 20px 20px;
+  height: 30px;
+  width: 100px;
+  background-color: white;
+
+}
+
+.Explore:hover {
+  font-size: 10px;
+  margin-top: 170px;
+  float: left;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: -400px;
+  color: white;
+  border-radius: 20px 20px 20px 20px;
+  height: 30px;
+  width: 100px;
+  background-color: rgb(249, 26, 171);
+
+}
+
+.Image1 {
+  background-image: url(580b57fcd9996e24bc43c1bc.png);
+  background-position: center;
+  background-size: cover;
+  height: 290px;
+  width: 220px;
+  margin-top: -10px;
+  margin-left: 50px;
+  float: left;
+}
+
+.Section1 {
+  height: 700px;
+  background-color: white;
+}
+
+.Heading3 {
+  font-size: 50px;
+  margin-top: 20px;
+  float: left;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: 20px;
+
+  color: rgb(255, 0, 166);
+}
+
+.Heading4 {
+  font-size: 40px;
+  margin-top: 60px;
+  float: left;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: -210px;
+
+  color: black;
+}
+
+.Des2 {
+  font-size: 30px;
+  margin-top: 110px;
+  float: left;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: -250px;
+
+  color: rgb(249, 26, 171);
+}
+
+.Main-image1 {
+  background-image: url(580b57fcd9996e24bc43c1bb.png);
+  background-position: center;
+  background-size: cover;
+  height: 290px;
+  width: 220px;
+  margin-top: -10px;
+  margin-left: 50px;
+  float: left;
+  background-color: rgb(255, 0, 166);
+  border-radius: 20px 20px 20px 20px;
+}
+
+.Main-image3 {
+  background-image: url(580b57fcd9996e24bc43c1ba.png);
+  background-position: center;
+  background-size: contain;
+  height: 290px;
+  width: 110px;
+  margin-top: -10px;
+  margin-left: 30px;
+  float: left;
+  background-color: rgb(255, 0, 166);
+  border-radius: 20px 20px 20px 20px;
+}
+
+.Main-image2 {
+  background-image: url(580b57fcd9996e24bc43c1bf.png);
+  background-position: center;
+  background-size: cover;
+  height: 290px;
+  width: 220px;
+  margin-top: -10px;
+  margin-left: 50px;
+  float: left;
+  background-color: rgb(255, 0, 166);
+  border-radius: 20px 20px 20px 20px;
+}
+
+.Heading5 {
+  font-size: 40px;
+  margin-top: 30px;
+  float: left;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: 20px;
+
+  color: black;
+}
+
+.Des3 {
+  font-size: 30px;
+  margin-top: 70px;
+  float: left;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: -200px;
+
+  color: rgb(249, 26, 171);
+}
+
+.Footer {
+  height: 200px;
+  background-color: rgb(255, 0, 166);
+  color: white;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+.Info {
+  color: white;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: 80px;
+  float: left;
+
+}
+
+.contact{
+  margin-left: 80px;
+  float: left;
+}
+.About {
+  margin-left: 80px;
+  float: left;
+}
+.Socialmedia{
+background-image: url(PikPng.com_social-media-icon-png_519306.png);
+background-position: center;
+background-size: contain;
+margin-top: 20px;
+height: 120px;
+width: 180px;
+float: left;
+margin-left: 300px;
+}
